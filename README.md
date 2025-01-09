@@ -1,7 +1,6 @@
 ## Human Action Recognition on Videos
 
-In this project I used [Convolutional Lstm neural network](https://arxiv.org/abs/1506.04214) which is a combination of Convolutional and Long Short-Term memory allowing for 
-spatial dependencies in data sequences like videos to be captured efficiently over time.
+In this project I used [Convolutional Lstm neural network](https://arxiv.org/abs/1506.04214) which is a combination of Convolutional and Long Short-Term memory neural networks allowing for spatial dependencies in data sequences like videos to be captured efficiently over time.
 
 The dataset is [here](https://www.kaggle.com/datasets/pypiahmad/realistic-action-recognition-ucf50-dataset).\
 I implemented this neural network in both Pytorch and Keras.\
